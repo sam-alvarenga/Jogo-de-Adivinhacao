@@ -87,7 +87,7 @@
             Controls.Add(lbl);
             Controls.Add(lblJogo);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Adivinha Aí";
             ResumeLayout(false);
             PerformLayout();
         }
